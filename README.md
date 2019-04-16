@@ -6,10 +6,12 @@
  [Voir la définition compléte sur wikipedia](https://fr.wikipedia.org/wiki/PL/SQL "voir la définition compléte")
 
 
-
+ 
 ## A propos de l'atelier SGBD
 
-par Madame **Khemiri Mahassen**   
+par Madame **Khemiri Mahassen** 
+
+
 
 ##Traveaux Pratiques 
  
@@ -32,11 +34,15 @@ par Madame **Khemiri Mahassen**
  [TD6](https://github.com/aminelch/learnPLSQL/tree/master/TD6)
 
 
+
 ##DS 
+
 
 [DS2016](https://github.com/aminelch/learnPLSQL/blob/master/forkFrom%20Abderahmen/DS2016.sql "DS2016")
 
+
 [DS2017](https://github.com/aminelch/learnPLSQL/blob/master/forkFrom%20Abderahmen/DS2017.sql")
+
 
 
 ##Fork de Abderahmen 
